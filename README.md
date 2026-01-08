@@ -27,9 +27,7 @@ A CNN-based binary image classification pipeline was developed to:
 - **Classes:**
   - IDC (−): Non-cancerous tissue
   - IDC (+): Cancerous tissue
-
-⚠️ The dataset is **not included** in this repository due to Kaggle licensing restrictions.
-
+    
 ---
 
 ## Methodology
